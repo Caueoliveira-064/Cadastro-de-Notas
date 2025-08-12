@@ -4,5 +4,6 @@
 /**
  * 
  */
-module ativ05_08_2025 {
+module SistemaClientes {
+	requires java.sql;
 }
